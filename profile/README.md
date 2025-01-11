@@ -1,7 +1,7 @@
 # DevSNK's
 
 <div align="center">
-  <img src="./media/logo.jpeg" alt="DevSNK Logo" width="200">
+  <img src="https://avatars.githubusercontent.com/u/194561967?&v=4" alt="DevSNK Logo" width="200">
     <br><br>
     <a href="mailto:dev.thesnk7@gmail.com">📧 Email Us</a>
     <br><br>
